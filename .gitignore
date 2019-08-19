@@ -1,7 +1,9 @@
 axios_api/node_modules
 axios2/node_modules
 
-package-lock.json
+axios_api/package-lock.json
+axios2/package-lock.json
+
 
 
 
